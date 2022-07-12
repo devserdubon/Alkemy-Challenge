@@ -1,1 +1,3 @@
 Postgres/data_postgres
+Airflow/logs
+Airflow/plugins
